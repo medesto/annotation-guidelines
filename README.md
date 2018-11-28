@@ -1,5 +1,7 @@
 # annotation-guidelines
 
+This has been moved to the folder temporal-work/annotation-guidelines (https://github.com/medesto/temporal-work/blob/master/annotation-guidelines/Annotation_guidelines_time_expressions.pdf)
+
 Annotation guidelines for the MeDESTO project:
 
 1. Annotation_guidelines_time_expressions: time expressions identification.
