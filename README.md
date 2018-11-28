@@ -1,6 +1,6 @@
 # annotation-guidelines
 
-The guidelines have been moved to: https://github.com/medesto/temporal-work/blob/master/annotation-guidelines/Annotation_guidelines_time_expressions.pdf
+The guidelines for time expression annotation have been moved to: https://github.com/medesto/temporal-work/blob/master/annotation-guidelines/Annotation_guidelines_time_expressions.pdf
 
 Annotation guidelines for the MeDESTO project:
 
